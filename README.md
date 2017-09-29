@@ -1,2 +1,2 @@
-# fmaths-as-induction
-Proof by induction
+# Proof by induction
+
